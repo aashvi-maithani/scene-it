@@ -1,6 +1,4 @@
 # Scene-It
-
-# 🎬 Scene-It
 **Don't just dream it. Scene it.**
 *Turn movie screenshots and Pinterest moods into bookable travel itineraries instantly.*
  
