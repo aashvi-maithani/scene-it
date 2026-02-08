@@ -10,7 +10,7 @@ We built **Scene-It** to bridge the gap between **Aesthetic Inspiration** and **
 ## 🚀 Key Features
 
 ### 1. 🕵️‍♀️ Visual Intelligence (The Core)
-Drag and drop any image—a blurry anime scene, a movie screenshot, or an influencer's post. We identify the location instantly.
+Upload any image: a blurry anime scene, a movie screenshot, or an influencer's post. We identify the location instantly.
 
 ### 2. 📉 Vibe Arbitrage (The "Dupe" Detector)
 **"Champagne taste, beer budget?"**
