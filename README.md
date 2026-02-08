@@ -1,5 +1,5 @@
 # Scene-It
-**Don't just dream it. Scene it.**
+**SEE IT. BOOK IT. LIVE IT.**
 *Turn movie screenshots and Pinterest moods into bookable travel itineraries instantly.*
  
 ## 💡 The Inspiration
